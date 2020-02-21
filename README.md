@@ -1,4 +1,2 @@
 # hello-world
-I'm a presh man.
-
-I'm learning Git.
+免费节点：  free-ss.site
